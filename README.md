@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Flask, Solidity, Ethereum**
 
-- 👯 I’m looking to collaborate on **Star Wars color vision AI**
-
 - 👨‍💻 All of my projects are available at [marymbutu.com](marymbutu.com)
 
 - 💬 Ask me about **React, PHP, Javascript**

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mary Mbutu</h1>
-<h3 align="center">A Fullstack developer and Data science enthusiast from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Wangui Mbutu</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanguimbutu&label=Profile%20views&color=0e75b6&style=flat" alt="wanguimbutu" /> </p>
 

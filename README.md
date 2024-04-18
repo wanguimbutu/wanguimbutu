@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanguimbutu&label=Profile%20views&color=0e75b6&style=flat" alt="wanguimbutu" /> </p>
 
 
-- 🔭 I’m currently working on [blockchain projects](github.com/marymbutu/blockchain101)
+- 🔭 I’m currently working on [frappe projects]
 
-- 🌱 I’m currently learning **Flask, Solidity, Ethereum**
+- 🌱 I’m currently learning **Frappe and C**
 
 - 👨‍💻 All of my projects are available at [marymbutu.com](marymbutu.com)
 
-- 💬 Ask me about **React, PHP, Javascript**
+- 💬 Ask me about **React, Solidity, Javascript**
 
 - 📫 How to reach me **wanguimbutu@gmail.com**
 

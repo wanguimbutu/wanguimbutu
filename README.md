@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frappe and C**
 
-- 👨‍💻 All of my projects are available at [marymbutu.com](marymbutu.com)
+- 👨‍💻 All of my projects are available at [wanguimbutu.com](wanguimbutu.com)
 
 - 💬 Ask me about **React, Solidity, Javascript**
 
